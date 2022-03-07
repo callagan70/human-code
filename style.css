@@ -1,0 +1,24 @@
+img {
+    width: 100%;
+}
+
+.diagramma {
+    display: block;
+    margin: auto;
+    width: 95%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: grey;
+}
+
+p {
+    width: 60%;
+    display: block;
+    margin: auto auto 40px auto;
+}
